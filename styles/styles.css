@@ -1,0 +1,33 @@
+body {
+    width: 1000px;
+    height: 1000px;
+    background-color:whitesmoke;
+}
+
+.box1 {
+    background-color: red;
+    margin-left: 10px;
+    width: 1000px;
+    height: 1000px;
+    margin-left: 50%;
+    position: relative;
+    padding-top: 25%;
+}
+
+.box12 {
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+
+    float: left;
+}
+
+.box13{
+    width: 500px;
+    height: 500px;
+    background-color: green; 
+
+    float: right;
+    
+    
+}
